@@ -5,4 +5,4 @@ function updateObjectWithKeyAndValue(object, key, value){
  //return object;
  var newObj =  new Object(object,{ key: value });
  return newObj;
-}klet
+}
